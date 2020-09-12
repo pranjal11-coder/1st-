@@ -1,0 +1,36 @@
+/* CSS Document */
+<style>
+* {
+  box-sizing: border-box;
+ 
+}
+.left {
+ background-color:red;
+  float:left;
+  width:32.5%;
+    padding:20px;
+      margin:5px;
+  text-align:center;
+}
+
+.main {
+ background-color:blue;
+  float:left;
+  width:32.5%;
+  padding:20px;
+    margin:5px;
+   text-align:center;
+}
+.right {
+  background-color:#e5e5e5;
+  float:left;
+  width:32.5%;
+  padding:20px;
+  margin:5px;
+  text-align:center;
+}
+
+
+}
+</style>
+
